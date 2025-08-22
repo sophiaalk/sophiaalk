@@ -2,7 +2,7 @@
 - 👀 I’m interested in Linux 
 - 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on code review
-- 📫 How to reach me : you can email me : sophia.alikhani1968@gmail.com
+- 📫 How to reach me : you can email me : mislinuxir@gmail.com
 - 😄 Pronouns: Sophia Alikhani
 - ⚡ Fun fact: ...
 
