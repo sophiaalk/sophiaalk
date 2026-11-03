@@ -1,9 +1,8 @@
 # Hi, I'm Sophia Alikhani 👋
 
-**Linux System Administrator & Trainer** · Los Angeles area
+Linux sysadmin & trainer · Data center technician (Per Scholas) · AWS Cloud Practitioner · Ansible, VMware vSphere, automation · United States Area
 
-I build, harden, and document Linux infrastructure, and I like helping other people get comfortable with it too. I'm open to **Data Center Technician** and **Systems Administrator** roles.
-
+- **Intro:** Data Center Technician & Linux System Administrator & Trainer in every states of the USA
 ## 🛠️ What I do
 
 - At the **Central Bank of Iran**, I led a **10-person team** that deployed database and application servers in the backup and replication data centers.
@@ -28,10 +27,12 @@ I build, harden, and document Linux infrastructure, and I like helping other peo
 ## 📜 Certifications
 
 - ✅ **AWS Certified Cloud Practitioner**
-- ✅ **CompTIA A+ Core 1**: passed
+- ✅ **CompTIA A+ Core 1, Core 2**: passed
 - ✅ **BankWork$ Certificate**, JVS SoCal
-- 🎓 **Per Scholas Data Center Technician**: in progress
+- 🎓 **Per Scholas Data Center Technician**: passed
+- ✅ **OSHA, NFPE**: passed
 - 🎯 **CompTIA Security+**: planned
+- 🎯 **CompTIA Linux+**: planned
 
 ## 📂 Featured Repos
 
